@@ -1,0 +1,3 @@
+Param($variable)
+
+Write-Host "Can we pass $variable"
